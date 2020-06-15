@@ -1,6 +1,6 @@
 #!/bin/bash
-# Web server installation script for manjaro linux.
-# Requires SUDO installed
+# Web server installation script for Manjaro Linux.
+# Requires SUDO
 # Created by LuizFNunes
 
 clear;
